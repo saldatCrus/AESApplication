@@ -1,0 +1,4 @@
+﻿{
+	"Key":"WbqfpGAFcFLff7Tsv8K0j+U1v0HPArX1FFnfmwmP4bQ=",
+	"IV":"V+2mA+bDPunVjmB9HXWaSw=="
+}
