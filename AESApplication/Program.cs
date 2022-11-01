@@ -9,14 +9,6 @@ internal class Program
 
     static async Task Main()
     {
-        //var test = new AESData() {IV = IV , Key = Key };
-
-        //using StreamReader sr = new("Data.txt");
-
-        //var m = JsonConvert.DeserializeObject<AESData>(await sr.ReadToEndAsync());
-
-        //string json = JsonConvert.SerializeObject(test);
-
 
         while (true) 
         {
